@@ -1,29 +1,44 @@
 
-Filmes de Terror - Projeto HTML
+# 🕷️ Site: Universo do Terror
 
-Este é um projeto simples de site feito com HTML, CSS e JavaScript. Ele mostra conteúdos sobre o universo do terror, como filmes, livros e jogos.
+Este projeto é um site estático dedicado ao universo do **terror**, com informações e sugestões de **filmes**, **livros** e **jogos** desse gênero. O objetivo é entreter e informar os amantes do suspense, horror e do sobrenatural, reunindo conteúdos marcantes dessa temática.
 
-Arquivos do Projeto:
+## 🔮 Funcionalidades
 
-- filmes.html: Página principal com filmes de terror.
-- Livros.html: Página com livros de terror.
-- Jogos.html: Página com jogos de terror.
-- UniversoTerror.html: Página com curiosidades e temas do terror.
-- style.css: Arquivo com o visual (cores, fontes, etc).
-- script.js: Código JavaScript para interações básicas.
-- Pasta imagens: Onde ficam as imagens usadas nas páginas.
+- Página principal com introdução ao tema do terror
+- Navegação por botões para páginas dedicadas a:
+  - **Filmes de Terror**
+  - **Livros de Terror**
+  - **Jogos de Terror**
+- Animações e interações em JavaScript
+- Estilização sombria e imersiva com CSS personalizado
 
-Tecnologias usadas:
+## 🧱 Estrutura do Projeto
 
-- HTML
-- CSS
-- JavaScript
+```
+terror/
+├── filme.html           # Página com filmes de terror
+├── livro.html           # Página com livros de terror
+├── jogo.html            # Página com jogos de terror
+├── principal.html       # Página principal do site
+├── style.css            # Estilos globais do site
+└── script.js            # Scripts de interação
+```
 
-Objetivo:
+## 🧑‍💻 Tecnologias Utilizadas
 
-Criado para praticar a criação de sites e organizar conteúdos sobre o tema de terror de forma simples.
+- **HTML5** para estrutura das páginas
+- **CSS3** para estilos e layout
+- **JavaScript** para interatividade
+- Projeto 100% estático, sem backend
 
-Como abrir:
+## 🚀 Como Visualizar
 
-1. Baixe os arquivos.
-2. Clique duas vezes no arquivo filmes.html para abrir no navegador.
+1. Baixe ou clone este repositório
+2. Abra o arquivo `principal.html` em um navegador
+
+## 💡 Sugestões Futuras
+
+- Adicionar mais conteúdos multimídia (trailer de filmes, trechos de livros)
+- Inclusão de sistema de busca
+- Modo escuro automático 
