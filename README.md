@@ -10,6 +10,7 @@ Este projeto é um site estático dedicado ao universo do **terror**, com inform
   - **Filmes de Terror**
   - **Livros de Terror**
   - **Jogos de Terror**
+  - **Sugestões de Usuários** (formulário interativo)
 - Animações e interações em JavaScript
 - Estilização sombria e imersiva com CSS personalizado
 
@@ -21,6 +22,7 @@ terror/
 ├── livro.html           # Página com livros de terror
 ├── jogo.html            # Página com jogos de terror
 ├── principal.html       # Página principal do site
+├── sugestoes.html       # Página com formulário de sugestões
 ├── style.css            # Estilos globais do site
 └── script.js            # Scripts de interação
 ```
